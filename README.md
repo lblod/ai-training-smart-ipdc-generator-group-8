@@ -1,1 +1,1 @@
-# ai-training-smartipdgenerator-group-8
+# ai-training-smart-ipdc-generator-group-8
