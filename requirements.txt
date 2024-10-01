@@ -1,4 +1,7 @@
+wheel
 mlflow
 transformers
 datasets
 evaluate
+torch
+transformers[torch]
